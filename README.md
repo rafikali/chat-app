@@ -1,2 +1,2 @@
-# chat-app
-live demo: https://rafik-chatapp.netlify.app/
+# Chat-app
+### demo: https://rafik-chatapp.netlify.app/
